@@ -24,7 +24,7 @@ Folder Sorter is a Python script that automatically organizes files in a directo
 ## Installation
 Clone the repository
 ```bash
-git clone https://github.com/yourusername/folder-sorter.git
+git clone https://github.com/Will6855/folder-sorter.git
 cd folder-sorter
 ```
 - or download the executable from the [release section](https://github.com/Will6855/folder-sorter/releases)
