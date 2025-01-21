@@ -1,0 +1,11 @@
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.exe
+*.spec
+
+# Executable and build artifacts
+FolderSorter.exe
