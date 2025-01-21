@@ -1,5 +1,5 @@
 # Folder Sorter
-
+![GitHub Release](https://img.shields.io/github/v/release/Will6855/folder-sorter)
 ## Overview
 Folder Sorter is a Python script that automatically organizes files in a directory into categorized subdirectories based on file types, mostly for downloads folder.
 
